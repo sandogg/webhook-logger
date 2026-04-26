@@ -1,0 +1,20 @@
+{
+  "name": "bby-listener",
+  "version": "1.0.0",
+  "description": "VSCL Logger for Management and Admins",
+  "main": "bbyListener.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gregorio Sandoval Morales - or G",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "express-rate-limit": "^7.4.1",
+    "helmet": "^8.0.0",
+    "node-statsd": "^0.1.1",
+    "rate-limiter-flexible": "^5.0.4",
+    "winston": "^3.17.0"
+  }
+}
