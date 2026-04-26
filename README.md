@@ -20,8 +20,8 @@ This application consists of:
 ## Installation
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/sandogg/webhook-logger
+cd webhook-logger
 npm install
 ```
 
